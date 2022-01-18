@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//phanlong99.github.io/test_reactjs/static/css/main.d1b05096.chunk.css",
-    "main.js": "//phanlong99.github.io/test_reactjs/static/js/main.e5b4f4f5.chunk.js",
-    "main.js.map": "//phanlong99.github.io/test_reactjs/static/js/main.e5b4f4f5.chunk.js.map",
-    "runtime-main.js": "//phanlong99.github.io/test_reactjs/static/js/runtime-main.ef924942.js",
-    "runtime-main.js.map": "//phanlong99.github.io/test_reactjs/static/js/runtime-main.ef924942.js.map",
-    "static/js/2.7ccfe46a.chunk.js": "//phanlong99.github.io/test_reactjs/static/js/2.7ccfe46a.chunk.js",
-    "static/js/2.7ccfe46a.chunk.js.map": "//phanlong99.github.io/test_reactjs/static/js/2.7ccfe46a.chunk.js.map",
-    "static/js/3.fa6130ed.chunk.js": "//phanlong99.github.io/test_reactjs/static/js/3.fa6130ed.chunk.js",
-    "static/js/3.fa6130ed.chunk.js.map": "//phanlong99.github.io/test_reactjs/static/js/3.fa6130ed.chunk.js.map",
-    "index.html": "//phanlong99.github.io/test_reactjs/index.html",
-    "precache-manifest.c42093c8e1da5a7b8daf9653f6d20e13.js": "//phanlong99.github.io/test_reactjs/precache-manifest.c42093c8e1da5a7b8daf9653f6d20e13.js",
-    "service-worker.js": "//phanlong99.github.io/test_reactjs/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "//phanlong99.github.io/test_reactjs/static/css/main.d1b05096.chunk.css.map",
-    "static/media/logo.svg": "//phanlong99.github.io/test_reactjs/static/media/logo.06e73328.svg"
+    "main.css": "/test_reactjs/static/css/main.d1b05096.chunk.css",
+    "main.js": "/test_reactjs/static/js/main.e5b4f4f5.chunk.js",
+    "main.js.map": "/test_reactjs/static/js/main.e5b4f4f5.chunk.js.map",
+    "runtime-main.js": "/test_reactjs/static/js/runtime-main.d03d96ef.js",
+    "runtime-main.js.map": "/test_reactjs/static/js/runtime-main.d03d96ef.js.map",
+    "static/js/2.7ccfe46a.chunk.js": "/test_reactjs/static/js/2.7ccfe46a.chunk.js",
+    "static/js/2.7ccfe46a.chunk.js.map": "/test_reactjs/static/js/2.7ccfe46a.chunk.js.map",
+    "static/js/3.fa6130ed.chunk.js": "/test_reactjs/static/js/3.fa6130ed.chunk.js",
+    "static/js/3.fa6130ed.chunk.js.map": "/test_reactjs/static/js/3.fa6130ed.chunk.js.map",
+    "index.html": "/test_reactjs/index.html",
+    "precache-manifest.8177be3be676db060bb7b2f7550f85c0.js": "/test_reactjs/precache-manifest.8177be3be676db060bb7b2f7550f85c0.js",
+    "service-worker.js": "/test_reactjs/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/test_reactjs/static/css/main.d1b05096.chunk.css.map",
+    "static/media/logo.svg": "/test_reactjs/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef924942.js",
+    "static/js/runtime-main.d03d96ef.js",
     "static/js/2.7ccfe46a.chunk.js",
     "static/css/main.d1b05096.chunk.css",
     "static/js/main.e5b4f4f5.chunk.js"
