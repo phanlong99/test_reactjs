@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "git@github.com:phanlong99/test_reactjs.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "git@github.com:phanlong99/test_reactjs.git/static/js/main.e5b4f4f5.chunk.js",
+    "main.js.map": "git@github.com:phanlong99/test_reactjs.git/static/js/main.e5b4f4f5.chunk.js.map",
+    "runtime-main.js": "git@github.com:phanlong99/test_reactjs.git/static/js/runtime-main.3634794c.js",
+    "runtime-main.js.map": "git@github.com:phanlong99/test_reactjs.git/static/js/runtime-main.3634794c.js.map",
+    "static/js/2.7ccfe46a.chunk.js": "git@github.com:phanlong99/test_reactjs.git/static/js/2.7ccfe46a.chunk.js",
+    "static/js/2.7ccfe46a.chunk.js.map": "git@github.com:phanlong99/test_reactjs.git/static/js/2.7ccfe46a.chunk.js.map",
+    "static/js/3.fa6130ed.chunk.js": "git@github.com:phanlong99/test_reactjs.git/static/js/3.fa6130ed.chunk.js",
+    "static/js/3.fa6130ed.chunk.js.map": "git@github.com:phanlong99/test_reactjs.git/static/js/3.fa6130ed.chunk.js.map",
+    "index.html": "git@github.com:phanlong99/test_reactjs.git/index.html",
+    "precache-manifest.efaebffae96f6910cc399ce6f884dff9.js": "git@github.com:phanlong99/test_reactjs.git/precache-manifest.efaebffae96f6910cc399ce6f884dff9.js",
+    "service-worker.js": "git@github.com:phanlong99/test_reactjs.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "git@github.com:phanlong99/test_reactjs.git/static/css/main.d1b05096.chunk.css.map",
+    "static/media/logo.svg": "git@github.com:phanlong99/test_reactjs.git/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3634794c.js",
+    "static/js/2.7ccfe46a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e5b4f4f5.chunk.js"
+  ]
+}
